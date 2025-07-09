@@ -1,4 +1,5 @@
-Proyecto para desarrollar una app móvil educativa.
-El objetivo es facilitar el aprendizaje remoto.
-Incluye gestión de tareas y calendario.
-Tendrá notificaciones para ayudar al estudiante.
+## Plan del Proyecto
+1. Desarrollar una app móvil para gestionar proyectos estudiantiles.
+2. Los usuarios podrán crear tareas, compartir avances y recibir notificaciones.
+3. Se usará React Native y Firebase para el desarrollo.
+4. Se priorizará la simplicidad de uso y la colaboración entre compañeros.
